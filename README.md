@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Theophilus Onyejiaku
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Computer Vision.
-- 🌱 I’m currently learning Deep Learing and Computer Vision.
+- 👀 I’m interested in Data Science, Machine Learning, Object Detection, Deep Learning and Computer Vision.
 - 💞️ I’m looking to collaborate on projects involving machine learning or data science and Analytics.
 - 📫 How to reach me [email](onyejiakut@gmail.com) or [linkedIn](www.linkedin.com/in/theophilus-chidalu-onyejiaku)
 - At my spare time, I play Table Tennis or Play football game.
